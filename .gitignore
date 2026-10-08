@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+loja.db
+
+.env
+.env.*
+
+.vscode/
+.idea/
